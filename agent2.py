@@ -445,7 +445,7 @@ def main():
         st.header("⚙️ Configuration")
         
         # Get API key from environment
-        api_key = "AIzaSyAWlOsPoN12Ya9CYawGZ7wSdAT8-YtvL0s"
+        api_key = "key"
         
         if api_key:
             st.success("✅ API Key loaded from environment")
